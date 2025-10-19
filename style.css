@@ -1,1 +1,7 @@
-
+* body{
+  background-color:lightblue;
+  font-family:Arial,sans serif;
+  text-allignment:Center;
+  padding:0px;
+  margin:0px;
+}
